@@ -4,5 +4,7 @@
   link: /about/
 - name: Recipes
   link: /recipes/
-- name: Contact
-  link: /contact/
+#- name: Contact
+#  link: /contact/
+#- name: Articles
+#  link: /articles/
