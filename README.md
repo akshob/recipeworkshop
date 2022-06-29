@@ -1,7 +1,5 @@
 # Recipe Workshop
 
-Food blog forked from [CloudCannon Treat Template](https://github.com/CloudCannon/treat-jekyll-template)
-
 ## Develop
 
 This was built with [Jekyll](http://jekyllrb.com/) version 4.1.1
@@ -9,6 +7,8 @@ This was built with [Jekyll](http://jekyllrb.com/) version 4.1.1
 Install the dependencies with [Bundler](http://bundler.io/):
 
 ~~~bash
+$ eval "$(rbenv init -)"
+$ rbenv install
 $ bundle install
 ~~~
 
