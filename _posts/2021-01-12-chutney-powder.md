@@ -1,5 +1,5 @@
 ---
-date: 2020-09-15
+date: 2021-01-12
 title: Chutney Powder
 categories:
   - Variants
