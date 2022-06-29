@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: Rama's Kitchen
-url: "https://akshob.in"
+title: Recipe Workshop
+url: "https://recipeworkshop.in"
 baseurl:
-analytics_url: https://matomo.akshob.in
+analytics_url: https://matomo.recipeworkshop.in
 newsletter_action:
 disqus_shortname:
 
@@ -16,9 +16,9 @@ author:
   email: info@akshob.in
   twitter: akshobg
 social:
-  name: Rama's Kitchen
+  name: Recipe Workshop
   links:
-    - https://github.com/akshob/akshob.in
+    - https://github.com/akshob/recipeworkshop
 
 # -----
 # Build
