@@ -1,6 +1,7 @@
 # ----
 # Site
 
+repository: akshob/akshob.github.io
 title: Recipe Workshop
 url: "https://recipeworkshop.in"
 baseurl:
